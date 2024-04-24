@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="900"
+   viewBox="0 0 1500 900"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter1"
+       x="-0.077844847"
+       y="-0.077844847"
+       width="1.1556897"
+       height="1.1556897">
+      <feGaussianBlur
+         stdDeviation="5.6477624"
+         id="feGaussianBlur1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter10"
+       x="-0.010564702"
+       y="-0.10129508"
+       width="1.0211294"
+       height="1.2025902">
+      <feGaussianBlur
+         stdDeviation="4.3541909"
+         id="feGaussianBlur10" />
+    </filter>
+  </defs>
+  <g
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#c83737;stroke-width:7.137;stroke-dasharray:14.274, 7.137, 3.5685, 7.137"
+       id="rect1"
+       width="1500"
+       height="900"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     id="layer2"
+     style="display:inline">
+    <g
+       id="g7"
+       transform="translate(0,-62.865876)">
+      <circle
+         style="mix-blend-mode:normal;fill:#000000;stroke-width:8.03068;stroke-dasharray:16.0613, 8.03068, 4.01533, 8.03068;filter:url(#filter1)"
+         id="path1"
+         cx="699.58435"
+         cy="450"
+         r="87.061829"
+         transform="matrix(0.98491321,0,0,0.98491321,60.97013,279.20547)" />
+      <circle
+         style="fill:#f9f9f9;stroke-width:7.87297;stroke-dasharray:15.7459, 7.87297, 3.93648, 7.87297"
+         id="circle1"
+         cx="750"
+         cy="722.41644"
+         r="85.352104" />
+      <circle
+         style="fill:#ff6600;stroke-width:5.94003;stroke-dasharray:11.88, 5.94003, 2.97001, 5.94003"
+         id="circle2"
+         cx="750"
+         cy="722.41644"
+         r="64.396812" />
+      <circle
+         style="fill:#ffffff;fill-opacity:1;stroke-width:2.0184;stroke-dasharray:4.03677, 2.0184, 1.0092, 2.0184"
+         id="circle3"
+         cx="750"
+         cy="722.41644"
+         r="21.881748" />
+    </g>
+  </g>
+  <g
+     id="layer3"
+     style="display:inline">
+    <g
+       id="g8">
+      <circle
+         style="mix-blend-mode:normal;fill:#000000;stroke-width:8.03068;stroke-dasharray:16.0613, 8.03068, 4.01533, 8.03068;filter:url(#filter1)"
+         id="circle4"
+         cx="699.58435"
+         cy="450"
+         r="87.061829"
+         transform="matrix(1.1851719,0,0,1.1851719,-79.127716,-372.84103)" />
+      <circle
+         style="fill:#1a1a1a;stroke-width:9.47375;stroke-dasharray:18.9475, 9.47375, 4.73687, 9.47375"
+         id="circle5"
+         cx="750"
+         cy="160.48633"
+         r="102.70643" />
+      <circle
+         style="fill:#d45500;stroke-width:7.14779;stroke-dasharray:14.2955, 7.14779, 3.57389, 7.14779"
+         id="circle6"
+         cx="750"
+         cy="160.48633"
+         r="77.490372" />
+      <circle
+         style="fill:#1a1a1a;fill-opacity:1;stroke-width:2.42879;stroke-dasharray:4.85755, 2.42879, 1.2144, 2.42879"
+         id="circle7"
+         cx="750"
+         cy="160.48633"
+         r="26.330881" />
+    </g>
+  </g>
+  <g
+     id="layer4">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:6.11712;stroke-dasharray:12.2342, 6.11712, 3.05856, 6.11712;filter:url(#filter10)"
+       id="rect10"
+       width="989.14838"
+       height="103.16451"
+       x="255.42581"
+       y="770.50995"
+       ry="38.684719" />
+    <rect
+       style="fill:#ffe6d5;fill-opacity:1;stroke-width:6.11712;stroke-dasharray:12.2342, 6.11712, 3.05856, 6.11712"
+       id="rect8"
+       width="989.14838"
+       height="103.16451"
+       x="255.42581"
+       y="770.50995"
+       ry="38.684719" />
+    <rect
+       style="fill:#c83737;fill-opacity:1;stroke-width:5.72986;stroke-dasharray:11.4597, 5.72986, 2.86493, 5.72986"
+       id="rect9"
+       width="974.45312"
+       height="91.880898"
+       x="262.77344"
+       y="776.15173"
+       ry="34.453579" />
+    <text
+       xml:space="preserve"
+       style="font-size:61.2896px;font-family:'Yatra One';-inkscape-font-specification:'Yatra One, Normal';text-align:center;text-anchor:middle;fill:#f9f9f9;fill-opacity:1;stroke-width:41.0082;stroke-dasharray:82.0166, 41.0082, 20.5041, 41.0082"
+       x="395.26358"
+       y="840.65375"
+       id="text10"><tspan
+         id="tspan10"
+         x="395.26358"
+         y="840.65375"
+         style="fill:#f9f9f9;fill-opacity:1;stroke-width:41.0082">Score:</tspan></text>
+  </g>
+</svg>
